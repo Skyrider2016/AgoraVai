@@ -1,0 +1,9 @@
+.dado {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: transform 2.5s ease, top 2.5s ease, left 2.5s ease;
+  top: 0;
+  left: 0;
+}
